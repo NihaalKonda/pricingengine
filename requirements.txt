@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+tensorflow
+keras-tuner
+backtrader[plotting]
+requests
+seaborn
+scikit-learn
+pandas_datareader
+yfinance
